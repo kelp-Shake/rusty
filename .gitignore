@@ -1,0 +1,5 @@
+# Rust build artifacts (any crate, any depth)
+target/
+
+# Course materials
+100-exercises-to-learn-rust.pdf
