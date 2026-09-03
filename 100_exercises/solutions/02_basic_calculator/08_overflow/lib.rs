@@ -23,7 +23,7 @@ mod tests {
         // With the default dev profile, this will panic when you run `cargo test`
         // We want it to wrap around instead
         assert_eq!(factorial(20), 2_192_834_560);
-        //                           ☝️
+        //                           
         // A large number literal using underscores to improve readability!
     }
 
